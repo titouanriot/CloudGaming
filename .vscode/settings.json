@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "": true,
+        "**/.git": false,
+        "**/.svn": false,
+        "**/*.meta": true
+    }
+}
